@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class English {
+public class ENGLISH {
     public static void main(String[] args) throws IOException {
         Reader sc = new Reader();
         int t = sc.nextInt();
